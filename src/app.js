@@ -40,6 +40,8 @@ console.log("</ul>")
 
 console.log(kk)
 
+//açıklama
+
 
 
 
